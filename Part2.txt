@@ -1,0 +1,176 @@
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Елисей, или Раздраженный Вакх</title>
+			</titleStmt>
+			<respStmt>
+				<persName>Екатерина Сальникова</persName>
+				<resp>Создание TEI документа, выделение в тексте персоналий/мест </resp>
+			</respStmt>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson type="fictional">
+					<person xml:id="01">
+						<persName>Елеся</persName>
+					</person>
+					<person xml:id="02">
+						<persName>откупщик</persName>
+					</person>
+					<person xml:id="03">
+						<persName>жена откупщика</persName>
+					</person>
+					<person xml:id="04">
+						<persName>рассказчик</persName>
+					</person>
+					<person xml:id="05">
+						<persName>лукавый</persName>
+					</person>
+					<person xml:id="06">
+						<persName>пес</persName>
+					</person>
+					<person xml:id="07">
+						<persName>Зевес</persName>
+					</person>
+					<person xml:id="08">
+						<persName>Даная</persName>
+					</person>
+					<person xml:id="09">
+						<persName>Персей</persName>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		В ней парился тогда с <person xml:id="03"><persName>женою</persName></person><person xml:id="02"><persName>откупщик</persName></person>,
+		Прямехонько туда ж забился и <person xml:id="01"><persName>ямщик</persName></person>;
+		Но в бане видит <person xml:id="01"><persName>он</persName></person> уж действия другие,
+		А именно <person xml:id="01"><persName>он</persName></person> зрит два тела там нагие,
+		Которы на себя взаимно льют водой, —
+		То сам был <person xml:id="02"><persName>откупщик</persName></person> с <person xml:id="03"><persName>женою</persName></person> молодой;
+		Не знаю, отчего пришла им та охота.
+		Но <person xml:id="04"><persName>я</persName></person> было забыл: была тогда суббота,
+		А этот у купцов велик в неделе день.
+		Тогда <person xml:id="01"><persName>ямщик</persName></person> вступил в палаческу степень:
+		<person xml:id="01"><persName>Он</persName></person>, взявши в ковш воды, на каменку кидает.
+		Там стало, что <person xml:id="01"><persName>ямщик</persName></person> обоих их пытает:
+		Переменяется приятный в бане пар
+		На преужаснейший и им несносный жар,
+		Который для <person xml:id="02"><persName>купца</persName></person> немножечко наскучил:
+		<person xml:id="02"><persName>Он</persName></person> думал, что <person xml:id="02"><persName>его</persName></person> то сам <person xml:id="05"><persName>лукавый</persName></person> мучил
+		За многие его при откупе грехи.
+		Уже оставили полочные верхи,
+		На нижние они с превыспренних слетают,
+		Но что? и тамо жар подобный обретают!
+		Во всей вселенной их единый стал клима́т:
+		В ней прежде был эдем, а ныне стал в ней ад.
+		Нельзя с невидимой им властью стало драться,
+		Приходит обои́м из бани убираться:
+		Забыл <person xml:id="02"><persName>мужик</persName></person> кафтан, а <person xml:id="03"><persName>баба</persName></person> косники,
+		<person xml:id="02"><persName>Он</persName></person> только на себя накинул лишь портки,
+		А <person xml:id="03"><persName>жонка</persName></person> на себя накинула рубашку,
+		И оба через двор побегли наопашку —
+		<person xml:id="03"><persName>Альцеста</persName></person> тут <person xml:id="03"><persName>жена</persName></person>, а <person xml:id="02"><persName>муж</persName></person> стал <person xml:id="02"><persName>Геркулес</persName></person>.
+		На ту беду у них был в доме дворный <person xml:id="06"><persName>пес</persName></person>,
+		Который, обои́х хозяев не узная,
+		Вдруг бросился на них, как <person xml:id="06"><persName>Цербер</persName></person> адский лая,
+		И прямо на <person xml:id="02"><persName>купца</persName></person> <person xml:id="06"><persName>он</persName></person> сзади тотчас скок,
+		Влепился к новому сему <person xml:id="02"><persName>Ираклу</persName></person> в бок,
+		И вырвал и́з боку кусок <person xml:id="06"><persName>он</persName></person>, как из теста.
+		Укушен <person xml:id="02"><persName>Геркулес</persName></person>, спаслася лишь <person xml:id="03"><persName>Альцеста</persName></person>.
+		На крик откупщиков сбегается народ.
+		О жалкий вид очам! о странный оборот!
+		Узрели нового тут люди <person xml:id="02"><persName>Геркулеса</persName></person>;
+		Таскает по двору домашняя <person xml:id="06"><persName>повеса</persName></person>,
+		А древний адского дубиной отлощил
+		И, взявши за уши, из ада утащил.
+
+		Однако ж кое-как <person xml:id="02"><persName>героя</persName></person> свободили
+		И, в дом препроводя, на скамью посадили.
+		<person xml:id="02"><persName>Он</persName></person> стонет, иль, сказать яснее, <person xml:id="02"><persName>он</persName></person> кричит
+		И меж стенанием слова сии ворчит
+		«<person xml:id="03"><persName>Ты</persName></person>, <person xml:id="03"><persName>жонушка</persName></person>, <person xml:id="02"><persName>меня</persName></person> сегодня соблазнила,
+		Что баней <person xml:id="02"><persName>мужика</persName></person> <person xml:id="03"><persName>ты</persName></person> старого вздразнила,
+		Не сам ли в том <person xml:id="03"><persName>тебя</persName></person> наставил <person xml:id="05"><persName>сатана</persName></person>?
+		Ах нет! не <person xml:id="05"><persName>он</persName></person>, но <person xml:id="03"><persName>ты</persName></person> виновна в том одна»
+		Так старый <person xml:id="02"><persName>муж</persName></person> свою <person xml:id="03"><persName>молодушку</persName></person> щуняет,
+		Виновен бывши сам, напрасно <person xml:id="03"><persName>ей</persName></person> пеняет:
+		Неужли <person xml:id="03"><persName>ей</persName></person> искать чужого мужика!
+
+		Но мы оставим их, посмотрим <person xml:id="01"><persName>ямщика</persName></person>.
+		Хозяев выжив вон, <person xml:id="01"><persName>ямщик</persName></person> помылся в бане
+		И вышел из нее в купеческом кафтане.
+		Так стал <person xml:id="01"><persName>Елеся</persName></person> мой совсем теперь одет.
+		Однако ж в шапочке <person xml:id="01"><persName>его</persName></person> как будто нет.
+		<person xml:id="03"><persName>Купчина</persName></person> был велик, <person xml:id="01"><persName>ямщик</persName></person> был средня роста,
+		Так стал в кафтане <person xml:id="01"><persName>он</persName></person>, как в рясе поп с погоста.
+		Не видимый никем, выходит <person xml:id="01"><persName>он</persName></person> на двор,
+		Бросает <person xml:id="01"><persName>он</persName></person> по всем местам свой жадный взор,
+		<person xml:id="01"><persName>Он</persName></person> только что о том намерен был стараться,
+		Каким бы образом до погреба добраться,
+		Однако ж в этот день его <person xml:id="01"><persName>он</persName></person> не нашел,
+		И паки в дом <person xml:id="02"><persName>купца/persName></person>, как в свой, <person xml:id="01"><persName>Елеся</persName></person> вшел.
+		Меж тем уже покров свой ночь распростирала
+		И чистый весь лазурь, как сажей, замарала,
+		А тучи к оному чинили больший мрак.
+		<person xml:id="01"><persName>Елеся</persName></person> в дом заполз в кафтане, будто рак,
+		И прямо под кровать купецку завалился.
+		<person xml:id="02"><persName>Купец</persName></person> тогда и сам с <person xml:id="03"><persName>женою</persName></person> спать ложился;
+		Кладя раскольничьи кресты на жирный лоб,
+		Читал: «Неужели мне одр сей будет гроб?»
+		<person xml:id="03"><persName>Жена</persName></person> за <person xml:id="02"><persName>ним</persName></person> тогда то ж самое читала
+		И <person xml:id="02"><persName>мужу</persName></person> оного с усердием желала.
+		Лишь только <person xml:id="02"><persName>откупщик</persName></person> на одр с <person xml:id="03"><persName>женою</persName></person> лег,
+		Тогда ужасный вихрь со всех сторон набег;
+		Остановилася гроза над самым домом,
+		Наполнился весь дом блистанием и громом,
+		Над крышкою его во мраке страх повис,
+		Летят и дождь, и град, и молния на низ.
+		Премена такова живущих в ужас вводит:
+
+		Не паки ли <person xml:id="07"><persName>Зевес</persName></person> в громах к <person xml:id="08"><persName>Данае</persName></person> сходит?
+		Не паки ль на <person xml:id="08"><persName>нее</persName></person> <person xml:id="07"><persName>он</persName></person> золотом дождит,
+		Да нового на свет <person xml:id="09"><persName>Персея</persName></person> породит?
+
+		Не <person xml:id="07"><persName>Зевс</persName></person>, но сам <person xml:id="01"><persName>ямщик</persName></person> встает из-под кровати,
+		Идет с купецкою <person xml:id="03"><persName>женою</persName></person> ночевати.
+		Когда <person xml:id="02"><persName>хозяина</persName></person> треск дома разбудил,
+		<person xml:id="02"><persName>Он</persName></person>, вставши со одра, и свечку засветил,
+		Отводит тучу прочь молитвами от дома;
+		Но гром не слушает такого <person xml:id="02"><persName>эконома</persName></person>,
+		Который животы неправдою сбирал
+		И откупом казну и ближних разорял.
+		<person xml:id="03"><persName>Хозяйка</persName></person> между тем сама не почивает,
+		Но только тянется в одре и позевает.
+		<person xml:id="01"><persName>Елеся</persName></person> для себя удобный час обрел,
+		<person xml:id="01"><persName>Он</persName></person> встал и на одре <person xml:id="03"><persName>хозяюшку</persName></person> узрел;
+		Меж глаз ее сидят усмешки и игорки,
+		Пониже шеи зрит две мраморные горки,
+		На коих также зрит два розовы куста.
+		Приятное лицо и алые уста
+		Всю кровь во <person xml:id="01"><persName>ямщике</persName></person> к веселью возбуждали
+		И к <person xml:id="03"><persName>ней</persName></person> вскарабкаться на ложе принуждали.
+		Не мысля более, <person xml:id="01"><persName>он</persName></person> прямо к <person xml:id="03"><persName>ней</persName></person> прибег
+		И вместе на кровать с <person xml:id="03"><persName>молодушкою</persName></person> лег.
+		<person xml:id="03"><persName>Она</persName></person> не зрит <person xml:id="01"><persName>его</persName></person>, лишь только осязает,
+		В <person xml:id="03"><persName>ней</persName></person> кровь тогда кипит и купно замерзает,
+		В единый час <person xml:id="03"><persName>она</persName></person> и тлеет и дрожит
+		И во объятиях невидимых лежит;
+		Что делается с <person xml:id="03"><persName>ней</persName></person>, сама того не зная,
+		И тем-то точная <person xml:id="03"><persName>она</persName></person> была <person xml:id="03"><persName>Даная</persName></person>.
+		Меж тем уже гроза ужасная прошла
+		И ночи прежнюю приятность отдала.
+		Тогда пришел <person xml:id="02"><persName>купец</persName></person> к <person xml:id="03"><persName>жене</persName></person> своей обратно,
+		Зовет по имени <person xml:id="03"><persName>хозяйку</persName></person> многократно:
+		«Проснися, <person xml:id="03"><persName>душенька</persName></person>, проснися <person xml:id="03"><persName>ты</persName></person>, мой свет!
+		Все тучи прочь ушли, и страха больше нет»
+		<person xml:id="03"><persName>Жена</persName></person> <person xml:id="02"><persName>ему</persName></person> на то с запинкой отвечает,
+		А старый <person xml:id="02"><persName>муж</persName></person> ее движенье примечает;
+		Толкнул <person xml:id="03"><persName>ее</persName></person> рукой тихошенько <person xml:id="02"><persName>он</persName></person> в бок,
+		<person xml:id="01"><persName>Елеся</persName></person> с сим толчком тотчас с кровати скок:
+		А <person xml:id="03"><persName>баба</persName></person> будто бы в то время лишь проснулась
+		И к <person xml:id="02"><persName>мужу</persName></person> на другой бочок перевернулась.
+	</text>
+</TEI>
